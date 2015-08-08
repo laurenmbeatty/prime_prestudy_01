@@ -1,0 +1,17 @@
+body {
+	padding: 10px;
+}
+
+h1 {
+	color: #0000ff;
+	text-transform: uppercase;
+	font-size: 24px;
+}
+
+p {
+	color: #ff0000;
+}
+
+em {
+	color: black;
+}
